@@ -41,6 +41,9 @@ The database consists the movie records include the following fields:
 - `release_year`: Year when the movie was released.
 - `language`: Language of the movie.
 - `rating`: Rating of the movie.
+- `music`:Musician of the movie
+- `actor`:Actors in the movie
+- `gener`:Type of movie
 
 ### Sample Movie Record sql structure
 
